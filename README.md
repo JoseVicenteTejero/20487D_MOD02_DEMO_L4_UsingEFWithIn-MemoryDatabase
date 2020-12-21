@@ -18,11 +18,11 @@ No
 
  
 
-**![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image004.png)**
+**![img](clip_image004.png)**
 
-**![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image006.png)**
+**![img](clip_image006.png)**
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image008.png)
+![img](clip_image008.png)
 
  
 
@@ -34,19 +34,19 @@ No
 
  
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image010.png)
+![img](clip_image010.png)
 
  
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image012.png)
+![img](clip_image012.png)
 
  
 
 Demonstration 2: Running Stored Procedures with Entity Framework
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image014.png)
+![img](clip_image014.png)
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image016.png)
+![img](clip_image016.png)
 
  
 
@@ -60,11 +60,11 @@ Demonstration 2: Running Stored Procedures with Entity Framework
 
  
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image018.png)
+![img](clip_image018.png)
 
  
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image020.png)
+![img](clip_image020.png)
 
  
 
@@ -72,19 +72,19 @@ Demonstration 2: Running Stored Procedures with Entity Framework
 
  
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image022.png)
+![img](clip_image022.png)
 
  
 
  
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image024.png)
+![img](clip_image024.png)
 
  
 
 El resultado es el siguiente:
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image026.png)
+![img](clip_image026.png)
 
  
 
@@ -92,9 +92,9 @@ El resultado es el siguiente:
 
 ### Demonstration: Using Entity Framework with SQLite
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image028.png)
+![img](clip_image028.png)
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image030.png)
+![img](clip_image030.png)
 
  
 
@@ -102,11 +102,11 @@ Resultado:
 
  
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image032.png)
+![img](clip_image032.png)
 
  
 
-![img](C:\20487D\AllFiles\Mod02\DemoFiles\clip_image034.png)
+![img](clip_image034.png)
 
  
 
